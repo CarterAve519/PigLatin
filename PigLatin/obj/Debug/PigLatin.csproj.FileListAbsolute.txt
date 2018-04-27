@@ -1,0 +1,7 @@
+c:\users\carte\source\repos\PigLatin\PigLatin\obj\Debug\PigLatin.csprojResolveAssemblyReference.cache
+c:\users\carte\source\repos\PigLatin\PigLatin\obj\Debug\PigLatin.csproj.CoreCompileInputs.cache
+c:\users\carte\source\repos\PigLatin\PigLatin\bin\Debug\PigLatin.exe.config
+c:\users\carte\source\repos\PigLatin\PigLatin\bin\Debug\PigLatin.exe
+c:\users\carte\source\repos\PigLatin\PigLatin\bin\Debug\PigLatin.pdb
+c:\users\carte\source\repos\PigLatin\PigLatin\obj\Debug\PigLatin.exe
+c:\users\carte\source\repos\PigLatin\PigLatin\obj\Debug\PigLatin.pdb
